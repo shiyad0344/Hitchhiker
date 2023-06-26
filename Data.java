@@ -2,7 +2,7 @@ package hitchkkers;
 import java.sql.*;
 
 /*
-@author Ashish sharma
+@author SHIVAM YADAV
  */
 public class Data{
     Connection c;
